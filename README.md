@@ -1,7 +1,7 @@
 # ML Stock Market Prediction with ARIMA Integration
 
 ## Overview
-This project explores the enhancement of stock price movement forecasting by combining technical indicators with machine learning models. The core innovation lies in integrating ARIMA (AutoRegressive Integrated Moving Average) time series forecasting with a RandomForest classifier to improve predictive accuracy.
+This project explores the enhancement of stock price movement forecasting by combining technical indicators with machine learning models. The core innovation lies in integrating ARIMA (AutoRegressive Integrated Moving Average) time series forecasting with a RandomForest classifier to improve predictive accuracy. Refer to the PDF for more detailed explanation of the code and analysis.
 
 ## Key Features
 - Integration of ARIMA forecasting with RandomForest classifier

@@ -45,14 +45,6 @@ The ARIMA-enhanced model demonstrated superior performance across all metrics:
 - Better recall in detecting actual positive movements
 - More balanced F1 scores
 
-## Installation
-```bash
-# Clone the repository
-git clone https://github.com/haechan01/ML-stock-market-prediction.git
-
-# Install required packages
-pip install -r requirements.txt
-```
 
 
 ## Future Improvements

@@ -54,22 +54,6 @@ git clone https://github.com/haechan01/ML-stock-market-prediction.git
 pip install -r requirements.txt
 ```
 
-## Usage
-[Add specific instructions for running your code]
-
-## Project Structure
-```
-├── data/
-│   └── [data files]
-├── models/
-│   ├── baseline_model.py
-│   └── arima_enhanced_model.py
-├── utils/
-│   └── technical_indicators.py
-├── notebooks/
-│   └── [analysis notebooks]
-└── README.md
-```
 
 ## Future Improvements
 - Hyperparameter tuning for both ARIMA and RandomForest models
@@ -86,6 +70,3 @@ pip install -r requirements.txt
 ## Author
 Haechan Oh
 Minerva University
-
-## License
-[Add your chosen license]
